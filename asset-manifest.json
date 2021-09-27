@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/kun.uz/static/css/main.2083ac22.chunk.css",
+    "main.js": "/kun.uz/static/js/main.c56ab961.chunk.js",
+    "main.js.map": "/kun.uz/static/js/main.c56ab961.chunk.js.map",
+    "runtime-main.js": "/kun.uz/static/js/runtime-main.7c258dc9.js",
+    "runtime-main.js.map": "/kun.uz/static/js/runtime-main.7c258dc9.js.map",
+    "static/js/2.3912e2db.chunk.js": "/kun.uz/static/js/2.3912e2db.chunk.js",
+    "static/js/2.3912e2db.chunk.js.map": "/kun.uz/static/js/2.3912e2db.chunk.js.map",
+    "static/js/3.a37ed194.chunk.js": "/kun.uz/static/js/3.a37ed194.chunk.js",
+    "static/js/3.a37ed194.chunk.js.map": "/kun.uz/static/js/3.a37ed194.chunk.js.map",
+    "index.html": "/kun.uz/index.html",
+    "static/css/main.2083ac22.chunk.css.map": "/kun.uz/static/css/main.2083ac22.chunk.css.map",
+    "static/js/2.3912e2db.chunk.js.LICENSE.txt": "/kun.uz/static/js/2.3912e2db.chunk.js.LICENSE.txt",
+    "static/media/Kun.uz_logosi.0a11d083.jpg": "/kun.uz/static/media/Kun.uz_logosi.0a11d083.jpg",
+    "static/media/Prezident.5ee8f790.jpg": "/kun.uz/static/media/Prezident.5ee8f790.jpg",
+    "static/media/Prezident1.fecb8dcc.jpg": "/kun.uz/static/media/Prezident1.fecb8dcc.jpg",
+    "static/media/Prezident2.d6662718.jpg": "/kun.uz/static/media/Prezident2.d6662718.jpg",
+    "static/media/pos.aa4f084e.jpg": "/kun.uz/static/media/pos.aa4f084e.jpg",
+    "static/media/pul.6f5f8fd1.jpg": "/kun.uz/static/media/pul.6f5f8fd1.jpg",
+    "static/media/pul1.63b11d3d.jpg": "/kun.uz/static/media/pul1.63b11d3d.jpg",
+    "static/media/pul2.a510f19c.jpg": "/kun.uz/static/media/pul2.a510f19c.jpg",
+    "static/media/user.38c2d551.jpg": "/kun.uz/static/media/user.38c2d551.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c258dc9.js",
+    "static/js/2.3912e2db.chunk.js",
+    "static/css/main.2083ac22.chunk.css",
+    "static/js/main.c56ab961.chunk.js"
+  ]
+}
